@@ -1,5 +1,5 @@
 
-# Project 1: EGCG vs 8AZS Docking Study
+# Project 2: EGCG vs 8AZS Docking Study
 # Objective:
 Docking of **EGCG (Epigallocatechin gallate)** with **8azs protein target** to study binding affinity and interaction sites.
 
