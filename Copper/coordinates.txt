@@ -1,0 +1,14 @@
+receptor = 8azs.pdbqt
+ligand = cucl2.pdbqt
+
+out = out.pdbqt
+
+center_x = 102.269
+center_y = 116.536
+center_z = 131.804
+
+size_x = 116
+size_y = 70
+size_z = 24
+
+exhaustiveness = 8
